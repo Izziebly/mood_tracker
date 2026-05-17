@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
-import 'app.dart'; // the MaterialApp lives here (next step)
+import 'app.dart';
+
 
 void main() => runApp(const MoodTrackerApp());
